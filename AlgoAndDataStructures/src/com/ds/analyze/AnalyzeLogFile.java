@@ -1,4 +1,4 @@
-package com.log.analyze;
+package com.ds.analyze;
 
 import java.io.BufferedReader;
 import java.io.File;

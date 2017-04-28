@@ -1,4 +1,4 @@
-package com.mypractice.trees;
+package com.ds.trees;
 
 import java.util.Scanner;
 

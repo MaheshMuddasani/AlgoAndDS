@@ -1,4 +1,4 @@
-package com.mypractice.sorting;
+package com.ds.sorting;
 
 public class QuickSort {
 

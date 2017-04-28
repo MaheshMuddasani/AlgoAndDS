@@ -1,4 +1,4 @@
-package com.mypractice.arrays;
+package com.ds.arrays;
 
 public class FindFrequencyInArray {
 
