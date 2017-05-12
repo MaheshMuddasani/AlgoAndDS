@@ -1,4 +1,4 @@
-package com.practice.geeks.coffee;
+package com.practice.geekforGeeks.amazon;
 
 import java.util.Scanner;
 
